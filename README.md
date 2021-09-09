@@ -1,2 +1,4 @@
 # Data-manipulation_Pandas
-kaggle course on Pandas
+completed kaggle course on Pandas.
+https://www.kaggle.com/learn/certification/anushavasup/pandas
+
